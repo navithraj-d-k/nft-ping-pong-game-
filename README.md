@@ -9,6 +9,8 @@ A blockchain-based Ping Pong game where players can mint NFTs and track their ga
 - Hardhat
 - React
 - Web3.js
+- Note: You'll need to:
+Install necessary dependencies, Set up Hardhat for contract deployment, Replace YOUR_DEPLOYED_CONTRACT_ADDRESS with actual contract address, Implement proper error handling and Add more robust game mechanics
 
 ## Setup
 1. Clone the repository
